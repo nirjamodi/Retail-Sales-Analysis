@@ -1,4 +1,4 @@
-# Retail-Sales-Analysis
+# Retail Sales Analysis
 
 This project performs exploratory data analysis (EDA) on retail sales data. The goal is to understand key sales trends, customer demographics, and profit distribution across different product categories.
 
